@@ -1,3 +1,6 @@
 [submodule "ContextSafetyMonitorAPS"]
 	path = ContextSafetyMonitorAPS
 	url = https://github.com/UVA-DSA/ContextSafetyMonitorAPS.git
+[submodule "OpenpilotWithVision"]
+	path = OpenpilotWithVision
+	url = https://github.com/UVA-DSA/OpenpilotWithVision.git
